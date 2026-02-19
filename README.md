@@ -8,7 +8,6 @@ gitfinity is your fully automated GitHub activity generator creating ~3-4 random
 
 **No burnout. No fake projects. Just beautiful green squares.**
 
-![Linus Torvalds contribution graph](torvaldd.png)
 
 ## Features
 
